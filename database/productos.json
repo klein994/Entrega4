@@ -1,0 +1,19 @@
+[{
+        "tittle": "Escuadras",
+        "price": 123.45,
+        "thumbnail": "image1",
+        "id": 1
+    },
+    {
+        "tittle": "Calculadora",
+        "price": "455.78",
+        "thumbnail": "image22",
+        "id": 2
+    },
+    {
+        "tittle": "Globo terraqueo",
+        "price": "987.56",
+        "thumbnail": "imagen_de_globo",
+        "id": 3
+    }
+]
